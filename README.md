@@ -1,4 +1,10 @@
-# Implementation of Bayesian Network
+### EX NO: 01
+
+### DATE: 22/03/2023
+
+
+# <br/><p align = "center"> Implementation of Bayesian Network </p>
+
 
 ## AIM
 To create a Bayesian Network for the given dataset in Python.
@@ -19,7 +25,7 @@ To create a Bayesian Network for the given dataset in Python.
 * Step 13: Generate the graph using networkx.<br/>
 * Step 14: Update margins and display the graph using matplotlib.pyplot.<br/>
 
-## PROGRAM
+## <br><br><br><br><br>PROGRAM
 ```python3
 
 
